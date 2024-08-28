@@ -14,10 +14,10 @@ a better understanding of the problems you encountered during the developmemnt o
 | scr | Source code - create as many subdirectories as needed |
 
 ## Project Team
-- *Mentor's Name*  - *Company Affliation* - Mentor
-- *Technical Advisor Name* - *Company Affliation* - Technical Advisor
-- *Alberto Cano* - *department* - Faculty Advisor
-- *Yunus Bidav* - *major* - Student Team Member
-- *Steven Holcombe* - *major* - Student Team Member
+
+- *Alberto Cano* - *Department of Computer Science* - Faculty Advisor Mentor Technical Advisor
+- *Yunus Bidav* - *Computer Science & Mathematics* - Student Team Member
+- *Steven Holcombe* - *Computer Science* - Student Team Member
 - *James Jenkins* - *Computer Science* - Student Team Member
-- *Amaka Odidika* - *major* - Student Team Member
+- *Amaka Odidika* - *Computer Science* - Student Team Member
+
