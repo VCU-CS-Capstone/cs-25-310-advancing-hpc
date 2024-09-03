@@ -1,11 +1,11 @@
-# *CSnnn Project Name*
-## **Sponsor:**
+# *CS25-310 Advancing HPC at VCU*
+## **Sponsor:Alberto Cano**
 
-**Students' Names:**
+**Students' Names:James Jenkins, Amaka Odidika,  Steven Holcombe**
 
-**Mentor:**
+**Mentor:Alberto Cano, Carlisle Childress**
 
-**Faculty Advisor:**
+**Faculty Advisor: Alberto Cano, Carlisle Childress**
 
 **Project:**
 
@@ -19,5 +19,5 @@
 
 | Week | Tasks | Goals |
 |------|-------|-------|
-| _Week 1_ | _Task 1_ | _Goal 1_ |
+| _Week 1_ | _Meet with advisors and setup contract_ | _Assign roles and begin research for project definition_ |
 | ... | ... | ... |
