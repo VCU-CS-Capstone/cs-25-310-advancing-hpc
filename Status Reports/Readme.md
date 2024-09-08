@@ -11,7 +11,7 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 |---|---|---|---|
 | Project Plan | Overall week by week plan of milestones | | |
 | Week 1 Status Report |Meet with advisors, setup team roles | Set up roles and met with advisors| none to report.|
-| Week 2 Status Report | | | |
+| Week 2 Status Report |Meet with advisor, train new members on ins and out of linux terminal | Decided meeting times, found our project description/problem, went into the HPC room! |NTR |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
 | Week 5 Status Report | | | |
