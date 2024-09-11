@@ -17,7 +17,14 @@ This project revolves around the establishment of an experimental high-performan
 
 ### Project Team
 
+#### Faculty:
+
 - *Alberto Cano* - *Department of Computer Science* - Faculty Advisor Mentor Technical Advisor
+- *Carlisle Childress* - *Department of Computer Science* - Faculty Technical Advisor
+- *Romano Woodfolk* - *Department of Computer Science* - Faculty Technical Advisor
+
+#### Students:
+
 - *Yunus Bidav* - *Computer Science & Mathematics* - Student Team Member
 - *Steven Holcombe* - *Computer Science* - Student Team Member
 - *James Jenkins* - *Computer Science* - Student Team Member
