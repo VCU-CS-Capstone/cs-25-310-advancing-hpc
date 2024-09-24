@@ -1,33 +1,31 @@
-CS25-310 - Advancing HPC at VCU
-Status Report 2 9/2- 9/6
+# *CS25-310 - Advancing HPC at VCU*
 
-Students' Names:
+## Status Report 2 9/2- 9/6
 
-    Steven Holcombe
-    Amaka Odidika
-    Yunus Bidav
-    James Jenkins
+**Students' Names:**
+  - Steven Holcombe
+  - Amaka Odidika
+  - Yunus Bidav
+  - James Jenkins
 
-Mentor:
+**Mentor:**
+  - Alberto Cano
 
-    Alberto Cano
+**Faculty Advisors:**
+  - Alberto Cano
+  - Carlisle Childress
 
-Faculty Advisors:
+## 1) Accomplishments this week
 
-    Alberto Cano
-    Carlisle Childress
+  - Worked out some project requirements and set some milestones - all members
+  - Weekly team meeting going over the upcoming work - all members
+  - Introduced members to Rocky Linux - all members
 
-1) Accomplishments this week
+## 2) Milestones to be completed next week
 
-    - Worked out some project requirements and set some milestones - all members
-    - Weekly team meeting going over the upcoming work - all members
-    - Introduced members to Rocky Linux - all members
+  - Make progress on Project Proposal - all members
+  - Test install Rocky Linux 9.4 - all members
 
-2) Milestones to be completed next week
+## 3) Issues, problems or concerns
 
-    - Make progress on Project Proposal - all members
-    - Test install Rocky Linux 9.4 - all members
-
-4) Issues, problems or concerns
-
-    None to report
+  None to report
