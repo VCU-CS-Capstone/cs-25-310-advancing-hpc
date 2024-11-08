@@ -18,9 +18,9 @@ Status Report Template: https://github.com/VCU-CS-Capstone/0000---Capstone-Templ
 | Week 6 Status Report | Meet with carlisle this week texting out virt manager and x quarts| got Xquartz to work and virt-manager  | NTR |
 | Week 7 Status Report |Meet with carlisle this week to go over VM creation using virt manager on bender. we will eventually use these to jump host into and work with the cluster | Set up virtual machines that are ssh-able| NTR |
 | Week 8 Status Report | Set up jump host| Met with carlsile demoed jump host works on vcu net but fixing connection with VPN hardware day that friday done!| VPN issues permissions from VCU denied but were fixed|
-| Week 9 Status Report | | | |
-| Week 10 Status Report | | | |
-| Week 11 Status Report | | | |
+| Week 9 Status Report | Hardware day for friday, thursday meeting cancelled| swapped infinibands around on the friday we had off. other hardware upgrades accomplushed and servers are back up!| NTR |
+| Week 10 Status Report |Initial warewulf setup, learn how to use shell scripts to automate warewulf and slurm config w open hpc |Met with carslisle to demo the manual process of HPC setup | We may have lost our adivsor and faculty member (hes switching schools)|
+| Week 11 Status Report |Do warewulf and slurm setup on a vm away from home with just the git docs and report problems | Everyone successfully set up their warewulf images with all dependencies|some kernel versions are out of date and need to make sure errors are handeled when we move to using a recipe, no update on advisor|
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
 | Week 14 Status Report | | | |
