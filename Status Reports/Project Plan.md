@@ -1,7 +1,7 @@
 # *CS25-310 Advancing HPC at VCU*
 ## **Sponsor:Alberto Cano**
 
-**Students' Names:James Jenkins, Amaka Odidika,  Steven Holcombe**
+**Students' Names: Yunus Bidav, James Jenkins, Amaka Odidika,  Steven Holcombe**
 
 **Mentor:Alberto Cano, Carlisle Childress**
 
