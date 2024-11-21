@@ -17,8 +17,26 @@ Weekly/bi-weekly status reports go into this folder
 | Week 9 Status Report | Hardware day for friday, thursday meeting cancelled| swapped infinibands around on the friday we had off. other hardware upgrades accomplushed and servers are back up!| NTR |
 | Week 10 Status Report |Initial warewulf setup, learn how to use shell scripts to automate warewulf and slurm config w open hpc |Met with carslisle to demo the manual process of HPC setup | We may have lost our adivsor and faculty member (hes switching schools)|
 | Week 11 Status Report |Do warewulf and slurm setup on a vm away from home with just the git docs and report problems | Everyone successfully set up their warewulf images with all dependencies|some kernel versions are out of date and need to make sure errors are handeled when we move to using a recipe, no update on advisor|
-| Week 12 Status Report | | | |
-| Week 13 Status Report | | | |
+| Week 12 Status Report | HPC on demand implementation
+Moving from bender to scylla prod machine
+AUTOMATED warewulf deployment of custom made images to run with slurm tasks 
+Still top priority |Finished The Poster
+Planned outline for tooling and demo for spring, gathering requirements stared
+We created the containerized versions of the werewolf 4 installation
+Upgrade from non image based werewolf 3
+ |Crony seems to be broken
+VCU NTP server needs to be looked at from our scope
+Automation will have to be very thorough as many variable came into play |
+| Week 13 Status Report | Same as last week
+HPC on demand implementation
+Moving from bender to scylla prod machine
+AUTOMATED warewulf deployment of custom made images to run with slurm tasks 
+Still top priority
+|Turned in the weekly reports
+Automation begINS
+Most members are now on their own versions of WW4
+HPL is being looked into 
+ | None to report other than keeping track of issues in the discord to add to exceptions list when we make the .sh file to deploy our cluster.|
 | Week 14 Status Report | | | |
 | Week 15 Status Report | | | |
 | Week 16 Status Report | | | |
