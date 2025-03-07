@@ -45,63 +45,14 @@ HPL is being looked into
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | Steven out so he got assigned a security project
-In person rack work| Start for semester going to finish container and prod cluster
-recipe.sh exists
-Security testing to come soon
-Physical rack work next week| NTR|
-| Week 2 Status Report |HP Node motheboard swapped
-Security project finished
- | Recipe.sh
-Install aide
-Configure containers for nodes
-| NTR|
-| Week 3 Status Report |
-AIDE backup
-Aide installation
-Remediating the issues in the scan
-Going over DHCPD | Think of ideas for secure passwords for Carlisle
-Go through aide scan to fix issues listed by Carlisle
-Open on demand
-Recipe.sh| None to report|
-| Week 4 Status Report | Four nodes provisioned
-Setup of network config
-Wwdhcpd investigation and configuration
-| Recipe.sh
-HPC on demand implementation
-Ipxe booting coming soon|No free leases issue
-Configuration errors for dhcpd |
-| Week 5 Status Report |Generated ssh keys
-Werewolf setup
-No meeting this week due to snow day
- | Send passwords to Carlisle
-Recipe sh
-Node configuration coming soon
-Ssh tunnelling
-| None to report
-Snow days blocking us|
-| Week 6 Status Report |Four nodes provisioned
-Setup of network config
-Wwdhcpd investigation and configuration
- |Recipe.sh
-HPC on demand implementation
-Ipxe booting coming soon | No free leases issue
-Configuration errors for dhcpd|
-| Week 7 Status Report |Cluster configured
-Head note provisioned
-Finished installing container
- |Recipe.sh
-Open on demand install
- | Scylla 4 won’t boot were running into a kernel panic
-Nothing else to report|
-| Week 8 Status Report |Turned in the weekly reports
-Fixed last weeks kernel panic issue
-TFTP Server may be broken
-Scylla 4 is ipxe booting other nodes soon to follow
- | Fix slurmd
-Get the recipe.sh finished
-| Kernel panic was fixed but slurred won’t start
-Not good we can’t run any jobs without slurmd|
+| Week 1 Status Report | Steven out so he got assigned a security project In person rack work| Start for semester going to finish container and prod cluster recipe.sh exists Security testing to come soon Physical rack work next week| NTR|
+| Week 2 Status Report |HP Node motheboard swapped Security project finished| Recipe.sh Install aideConfigure containers for nodes| NTR|
+| Week 3 Status Report |AIDE backupAide installationRemediating the issues in the scanGoing over DHCPD | Think of ideas for secure passwords for CarlisleGo through aide scan to fix issues listed by CarlisleOpen on demandRecipe.sh| None to report|
+| Week 4 Status Report | Four nodes provisioned Setup of network config Wwdhcpd investigation and configuration | Recipe.sh HPC on demand implementation Ipxe booting coming soon|No free leases issue Configuration errors for dhcpd |
+| Week 5 Status Report |Generated ssh keys Werewolf setup No meeting this week due to snow day  | Send passwords to Carlisle Recipe sh Node configuration coming soon Ssh tunnelling | None to report Snow days blocking us|
+| Week 6 Status Report |Four nodes provisioned Setup of network config Wwdhcpd investigation and configuration  |Recipe.sh HPC on demand implementation Ipxe booting coming soon | No free leases issue Configuration errors for dhcpd|
+| Week 7 Status Report |Cluster configured Head note provisioned Finished installing container  |Recipe.sh Open on demand install  | Scylla 4 won’t boot were running into a kernel panic Nothing else to report|
+| Week 8 Status Report |Turned in the weekly reports Fixed last weeks kernel panic issue TFTP Server may be broken Scylla 4 is ipxe booting other nodes soon to follow  | Fix slurmd Get the recipe.sh finished | Kernel panic was fixed but slurred won’t start Not good we can’t run any jobs without slurmd|
 | Week 9 Status Report | | | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
