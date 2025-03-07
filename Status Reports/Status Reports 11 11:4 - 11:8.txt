@@ -1,0 +1,24 @@
+Project Members:
+Steven Holcombe
+Yunus Bidav
+Amaka Odidika
+James Jenkins
+
+Accomplishments for the week -- and which team members participated/contributed
+Did self warewulf and slurm setup on a vm away from home with just the git docs
+Build repository of problems |to ignore/take care of during scripted ver
+Everyone successfully set up their warewulf images with all dependencies
+Poster drafting
+
+	
+
+
+List of Milestones to be completed and anticipated date (indicate which ones are in danger of not being met) 
+AUTOMATED warewulf deployment of custom made images to run with slurm tasks - Next two weeks
+Poster work continuation
+
+List of issues, problems, or concern(s)
+Some kernel versions can be out of date
+Whenever we do any work we have to triple check package versions
+We may have lost our advisor as he left schools
+No word on this
